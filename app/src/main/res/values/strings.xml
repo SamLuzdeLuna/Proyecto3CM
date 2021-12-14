@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Proyecto3CM</string>
+    <string name="name">Name:</string>
+    <string name="baseexp">B. Eperience:</string>
+    <string name="height">Height:</string>
+    <string name="weight">Wheight:</string>
+    <string name="msgerror">La conexion ha fallado</string>
+</resources>
